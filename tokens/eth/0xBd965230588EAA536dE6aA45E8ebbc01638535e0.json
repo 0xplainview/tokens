@@ -7,9 +7,9 @@
   "ens_address": "",
   "website": "https://motoswap.org",
   "logo": {
-    "src": "https://raw.githubusercontent.com/0xplainview/token-list/add-moto-token/images/moto.png",
-    "width": "128",
-    "height": "128",
+    "src": "https://motoswap.org/brand/moto-200.png",
+    "width": "200",
+    "height": "200",
     "ipfs_hash": ""
   },
   "support": {
